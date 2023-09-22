@@ -2,7 +2,7 @@
 
 Submitted by: **Ixtzul Moreno**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that generates a random 5 letter word and gives the user 6 guesses and highlights a letter in yellow if it's included in the word but not the correct position. Will highlight the letter in green if it's included in the word and in the correct position and will be gray if it's not included in the word. 
 
 Time spent: **7** hours spent in total
 
@@ -25,10 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+https://imgur.com/vvQwEcK 
 
 ## Notes
 
